@@ -1,0 +1,10 @@
+1:RakhmonovAkmal,12345,Akmal,Rakhmonov,23,0:
+2:MardonRahmonov,123456,Mardon,Rahomonov,20,0:
+3:RMA,123456,Mardonbek,Rahmonov,20,0:
+4:Ilhom,1234567,Ilhom,Rahmonov,25,0:
+5:Abdumalik,123454321,Abdumalik,Abdullayev,25,0:
+6:12345,12345,Ibrohim,Ergashev,30,0:
+7:Alisher,123,Alisher,Boymatov,50,0:
+8:12,12,Sherzod,Karimov,14,0:
+9:123,123,Zuhriddin,Salomov,23,0:
+10:45,45,Palonchi,Pistonchi,50,2:,Alkimyogar,Javobsiz savol

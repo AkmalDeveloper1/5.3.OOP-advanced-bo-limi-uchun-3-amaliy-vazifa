@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.3.OOP advanced bo'limi uchun 3-amaliy vazifa", "5.3.OOP advanced bo'limi uchun 3-amaliy vazifa.csproj", "{E2556F34-ECE2-494A-B372-98B86736439A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2556F34-ECE2-494A-B372-98B86736439A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2556F34-ECE2-494A-B372-98B86736439A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2556F34-ECE2-494A-B372-98B86736439A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2556F34-ECE2-494A-B372-98B86736439A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B021816C-97DD-414E-A6B4-8B7D4A4702A4}
+	EndGlobalSection
+EndGlobal

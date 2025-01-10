@@ -1,0 +1,20 @@
+1:Talaba,Tara Vestover,Hayotiy,65,65:,:
+2:Alkimyogar,Paulo Coelho,Falsafiy,34,33:,Palonchi Pistonchi,:
+3:Javobsiz savol,Viktor Frankl,Psixologik,78,77:,Palonchi Pistonchi,:
+4:Urush va Tinchlik,Lev Tolstoy,Tarixiy,41,41::
+5:Zanjirlangan Hayot,Harper Lee,Hayotiy,50,50::
+6:Gulxanlar ichida,Kristin Hannah,Dramatik,85,85::
+7:Yashil Chiroqlar,Matthew McConaughey,Biografik,22,23::
+8:Sening Isming,Mark Levi,Romantik,67,67::
+9:Kichkina Shahzoda,Antoine de Saint-Exupery,Falsafiy,94,94::
+10:Qalblar Kitobi,Louise Hay,Motivatsion,76,76::
+11:1984,George Orwell,Distopik,38,38::
+12:Hayvonlar fermasi,George Orwell,Satirik,53,53::
+13:Piyozning Ming Qatlami,Gunter Grass,Dramatik,47,47::
+14:Suv va Tuz,Markus Zusak,Tarixiy,68,68::
+15:Qora oqqush,Nassim Nicholas Taleb,Falsafiy,56,56::
+16:Millionerning fikri,T. Harv Eker,Moliyaviy,61,61::
+17:Xobbit,J.R.R. Tolkien,Fantastika,89,89::
+18:Uzun yo'l,Chimamanda Ngozi Adichie,Dramatik,32,32::
+19:Alif,Elif Shafak,Romantik,74,74::
+20:21-asr uchun 21 saboq,Yuval Noah Harari,Tarixiy,40,40::

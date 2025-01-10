@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "5.3.OOP advanced bo'limi uchun 3-amaliy vazifa/1.0.0": {
+        "runtime": {
+          "5.3.OOP advanced bo'limi uchun 3-amaliy vazifa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5.3.OOP advanced bo'limi uchun 3-amaliy vazifa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
